@@ -4,7 +4,7 @@
 - 📈 Passionate about tech, building smart projects
 - 🌱 Currently working on: AI Roadmap Projects
 - 📫 How to reach me: skirfanahmed2206@email.com
-- Website: (https://crz02.github.io/CRZ02/meme-website)
+- Website: https://crz02.github.io/CRZ02/meme-website
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
