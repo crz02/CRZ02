@@ -1,14 +1,6 @@
 article{
     font-size: x-large;
 }
-nav{
-    position: sticky;
-    top: 0px;
-    height: 111px;
-    width: 100%;
-    margin: 0px;
-    padding: 0px;
-}
 li{
     font-size: larger;
 }
